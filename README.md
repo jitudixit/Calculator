@@ -1,3 +1,3 @@
 # Calculator
 # Using Django Framework
-#HTML, CSS, JavaScript
+# HTML, CSS, JavaScript
